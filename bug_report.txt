@@ -1,1 +1,13 @@
-
+ID: 1
+Created by: Yuriy Makevkin
+Severity: Major
+Priority: Midle
+Environment: Windows_10 Chrom_112
+Title: Link "About" on thr main page is not clicability
+Steps
+1. Navigate to main page
+2. Select block "About"
+3. Click to Link
+Expected_result: The page open "About"
+Actual_resultat: The page not open
+Attachment: http://.......
