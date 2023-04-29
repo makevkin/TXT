@@ -1,0 +1,2 @@
+skills: Terminal, Git, Postman, Dev Tools, SQL, XCode, Jmeter, Testing
+
