@@ -1,0 +1,6 @@
+name Yuriy
+surname Makevkin
+age 46
+pets 3
+desired salary 1500$
+
